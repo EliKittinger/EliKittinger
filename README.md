@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hey! 💾
+
+My name is Eli Kittinger, I am currently a junior computer science major at East Carolina University.
+
+🛠️ I love building things, computers are no different. I enjoy spending my free time working on coding projects
+for myself or other people! My favorite progamming languages is java, I find object oriented programming to be fun and intuitive.
+
+🎮 For fun, I like to play video and card games, such as Deadlock, Overwatch, Minecraft, and Magic: the Gathering
+
+Currently, I am working on:
+* My website
+* A minecraft plugin
 
 <!--
 **EliKittinger/EliKittinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
